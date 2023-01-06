@@ -1,1 +1,6 @@
 # Expense-Tracker
+A simple beginner’s project based on Expense Tracking Application which uses React with Hooks and Context API.
+It has features that will allow all the users to manage their daily income and expenses by setting up different categories. This system as well as the web application’s concept is all clear, it’s the same as real-life scenarios and well-implemented on it. 
+Moving on, this expense tracker application in React.js project focuses mainly on dealing with personal income and expenses records. Here, the user simply has to list out his/her expenses amount and income amount with some short description/title. In terms of inserting income amount, he/she should enter the amount directly whereas he/she should enter amount starting with negative i.e. “-“. This project does not contain any sort of backend database. In an overview of this react app, the user adds their income and expenses amount, then the system differentiates the amount under different columns representing it with two different colors.This application also allows the user to see their history and remove them too. The application calculates his/her income and expenses amount and displays the total balance.
+
+link:https://fancy-angel.github.io/react-expense-tracker/
